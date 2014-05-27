@@ -5,7 +5,7 @@ Ability to display arbitrary Web content.
 * sysapp:
 * iOS:
 * Android:
-* Windows 8:
+* Windows 8: **yes** via `iframe` or `x-ms-webview` http://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx
 * Phonegap:
 * FirefoxOS:
 * ChromeApps:
